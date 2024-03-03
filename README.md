@@ -1,4 +1,4 @@
-# Dados de Casamentos, Divorcios e relacionados
+# Dados de Casamentos, Divórcios e relacionados
 
 ## Introdução
  Este projeto de banco de dados visa analisar e explorar dados relacionados a Divórcios, Casamentos, População e Índice de Desenvolvimento Humano (IDH) por estado no Brasil. Os dados foram obtidos de fontes confiáveis, como o Instituto Brasileiro de Geografia e Estatística (IBGE), o Programa das Nações Unidas para o Desenvolvimento (Pnud Brasil), o Instituto de Pesquisa Econômica Aplicada (Ipea) e a Fundação João Pinheiro (FJP).
