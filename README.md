@@ -3,6 +3,10 @@
 ## Introdução
  Este projeto de banco de dados visa analisar e explorar dados relacionados a Divórcios, Casamentos, População e Índice de Desenvolvimento Humano (IDH) por estado no Brasil. Os dados foram obtidos de fontes confiáveis, como o Instituto Brasileiro de Geografia e Estatística (IBGE), o Programa das Nações Unidas para o Desenvolvimento (Pnud Brasil), o Instituto de Pesquisa Econômica Aplicada (Ipea) e a Fundação João Pinheiro (FJP).
 
+ ![image](https://github.com/leticiascofield/BancoDeDados_CasamentosEDivorcios/assets/125830543/9dde8a32-7d93-4a4e-8a49-2c9e0a82cf11)
+
+
+
 ## Fontes de Dados
  As fontes de dados escolhidas para este projeto incluem:
 - **Divórcios e Casamentos:** Dados do IBGE, coletados em 18/06/2023, referentes ao ano de 2021.
@@ -10,6 +14,9 @@
 - **IDH:** Dados de 2021 fornecidos pelo Pnud Brasil, Ipea e FJP.
 
 ## Estrutura do Banco de Dados
+
+![image](https://github.com/leticiascofield/BancoDeDados_CasamentosEDivorcios/assets/125830543/b63671e7-3292-4833-811c-877c4498b34d)
+
  O banco de dados foi modelado utilizando PostgreSQL e consiste em cinco tabelas principais:
 
 1. **Casamento:**
@@ -60,3 +67,5 @@
 ## Utilização do Código SQL
  O código SQL fornecido no dump pode ser utilizado para criar o banco de dados e suas tabelas. As consultas SQL podem ser elaboradas para explorar os dados e extrair informações relevantes.
 
+## Documentação Adicional
+ Para informações mais detalhadas sobre os dados e a análise realizada, consulte o arquivo PDF fornecido junto com este repositório.
